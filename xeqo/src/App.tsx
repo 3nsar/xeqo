@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Hero from './Hero'
 
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
   return (
     <>
 
-       
+       <Hero/>
     </>
   )
 }
